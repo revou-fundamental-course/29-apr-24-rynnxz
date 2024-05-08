@@ -1,2 +1,2 @@
-# 29-apr-24-rynnxz
-29-apr-24-rynnxz created by GitHub Classroom
+# Rynn-Travel
+Mini Project RevoU Software Fundamental
